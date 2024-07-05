@@ -8,10 +8,7 @@
 I am a Full Stack Web Developer with a passion for developing new ideas. I love working on innovative projects and exploring new technologies. Currently, I am a estate manager and caregiver.
 
 - 🔭 I’m currently working on [CurrusX](https://github.com/yourusername/CurrusX)
-- 🌱 I’m currently learning [New Technology or Skill]
-- 👯 I’m looking to collaborate on [Project or Open Source Initiative]
-- 💬 Ask me about [Your Expertise or Topics of Interest]
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: realchrislondon@gmail.com
 
 ## Skills
 
@@ -22,22 +19,23 @@ I am a Full Stack Web Developer with a passion for developing new ideas. I love 
 
 ## Projects
 
-### [CurrusX](https://github.com/yourusername/CurrusX)
-A residential car charging app designed to [Brief Description].
+### [CurrusX]([https://github.com/3123MtOlympus/CurrusX.git])
+A residential car charging app
 
-### [Project Name](https://github.com/yourusername/projectname)
-A [Type of Project] built using [Technologies Used].
+### [NeighborLy] ([https://github.com/3123MtOlympus/NeighborLY.git])
+A community awareness app].
+
+### [ThePrepProject] ([https://github.com/3123MtOlympus/theprepproject.git])
+A first time project during studies.
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
-- Twitter: [Your Twitter](https://twitter.com/yourusername)
-- Email: [yourname@example.com]
+- LinkedIn: [Christopher Carter](https://www.linkedin.com/in/christopher-carter-95692a266)
+- Instagram: [@londochristophe](https://instagram.com/londochristophe)
+- Email: realchrislondon@gmail.com
 
 ## Fun Fact
 
-I love [Hobby or Interest] and enjoy [Another Fun Fact].
+I love weightlifting and enjoy developing and improving both phsycially and in tech.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 

@@ -1,11 +1,11 @@
 # londochristophe
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Chris 👋
 
 ![Header Image](https://yourimageurl.com)
 
 ## About Me
 
-I am a [Your Role] with a passion for [Your Interests]. I love working on innovative projects and exploring new technologies. Currently, I am working on [Your Project] and actively contributing to the open-source community.
+I am a Full Stack Web Developer with a passion for developing new ideas. I love working on innovative projects and exploring new technologies. Currently, I am a estate manager and caregiver.
 
 - 🔭 I’m currently working on [CurrusX](https://github.com/yourusername/CurrusX)
 - 🌱 I’m currently learning [New Technology or Skill]
